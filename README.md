@@ -1,6 +1,7 @@
 # TextAdventure - Choose your own adventure
 
 Click here to test it out: https://teknikos.github.io/TextAdventure/.
+
 This is a simple CYOA game.
 
 
